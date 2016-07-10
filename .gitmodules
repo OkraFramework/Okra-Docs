@@ -1,0 +1,12 @@
+[submodule "src/Okra.Core"]
+	path = src/Okra.Core
+	url = https://github.com/OkraFramework/Okra.Core.git
+[submodule "src/Okra.DependencyInjection.MEF"]
+	path = src/Okra.DependencyInjection.MEF
+	url = https://github.com/OkraFramework/Okra.DependencyInjection.MEF.git
+[submodule "src/Okra.Platform.UniversalWindows"]
+	path = src/Okra.Platform.UniversalWindows
+	url = https://github.com/OkraFramework/Okra.Platform.UniversalWindows.git
+[submodule "src/Okra.Platform.XamarinForms"]
+	path = src/Okra.Platform.XamarinForms
+	url = https://github.com/OkraFramework/Okra.Platform.XamarinForms.git
