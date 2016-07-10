@@ -27,9 +27,9 @@
         "files": [ "articles/images/**"]
       }
     ],
-    "overwrite": "specs/*.md",
+    "overwrite": "apispecs/*.md",
     "globalMetadata": {
-      "_appTitle": "docfx seed website",
+      "_appTitle": "Okra Framework API",
       "_enableSearch": true
     },
     "dest": "_site"
